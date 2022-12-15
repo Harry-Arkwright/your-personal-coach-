@@ -65,7 +65,7 @@ const callGenerateEndpoint = async () => {
 
 
   <div>
-<a href="whatsapp://send?text=Write you best email: https://www.salesmail.ml/">Share on WhatsApp</a>
+<a href="whatsapp://send?text=Write you best email: https://www.salesmail.ml/">Share Advice</a>
 </div>
 
 
