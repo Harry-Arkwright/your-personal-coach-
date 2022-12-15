@@ -43,14 +43,14 @@ const callGenerateEndpoint = async () => {
             <h1>Your Own Personal Coach</h1>
           </div>
           <div className="header-subtitle">
-            <h2> Get advice from your own personal coach. For free.
+            <h2> Get advice from your own personal coach. 
             </h2>
           </div>
         </div>
                 <div className="prompt-container">
                 <textarea
   className="prompt-box"
-  placeholder="My company develops an AI-powered proactive health and safety technology that enables an injury-free industrial workplace. Write me a hyper-personalised email to an MQL of my company. Include a subject line...."
+  placeholder="I've had 3 coffees today. Is it unhealthy to have another?"
   value={userInput}
   onChange={onUserChangedText}
 />
