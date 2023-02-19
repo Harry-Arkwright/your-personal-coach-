@@ -103,7 +103,7 @@ const callGenerateEndpoint = async () => {
           rel="noreferrer"
         >
 <div className="badge">
-            <p>Built with ❤️ this Christmas</p>
+            <p>Built with ❤️</p>
           </div>
         </a>
       </div>
