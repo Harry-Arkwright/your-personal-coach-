@@ -65,13 +65,13 @@ const callGenerateEndpoint = async () => {
 
 
   <div  className="whatsapp-link">
-<a href="whatsapp://send?text=Your own personal coach:    ">
- 
-<a className="whatsapp-link">
-  href="https://twitter.com/intent/tweet?text=Hello%20world">
-Tweet> Share Your Advice</a>
-</div>
+<a href="whatsapp://send?text=Your own personal coach:    ">Share your advice</a>
+ </div>
 
+  <div  className="whatsapp-link">
+<a href="https://twitter.com/intent/tweet?text=Hello%20world">Tweet your advice</a>
+
+</div>
 
   {apiOutput && (
   <div className="output">
