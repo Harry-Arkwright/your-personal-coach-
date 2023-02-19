@@ -69,7 +69,7 @@ const callGenerateEndpoint = async () => {
  </div>
 
   <div  className="whatsapp-link">
-<a href="https://twitter.com/intent/tweet?text=Hello%20world">Tweet your advice</a>
+<a href="https://twitter.com/intent/tweet?text=Today I learned">Tweet your advice</a>
 
 </div>
 
